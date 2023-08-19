@@ -32,3 +32,6 @@ To mark a task as completed, click the "Mark as Completed" button next to the ta
 Contributing
 Contributions are welcome! Please open a pull request if you have any changes or improvements to the code.
 
+![image](https://github.com/Amitsirauthiya/Task_Management_WEBSITE/assets/94832002/a93b1422-4e3a-42a6-b9c5-9c9293f630c1)
+
+
