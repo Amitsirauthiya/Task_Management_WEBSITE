@@ -1,4 +1,4 @@
-# Task_Managemrnt_WEBSITE
+# Task_Management_WEBSITE
 
 Introduction
 This repository contains the code for a task management website built using HTML, CSS, and JavaScript. The website allows users to create, edit, and delete tasks, as well as mark tasks as completed.
